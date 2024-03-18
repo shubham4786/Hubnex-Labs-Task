@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Actor:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap");
+@import url("https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Garnett+Light:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Garnett+Semibold:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Garnett+Regular:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Garnett+Medium:wght@400&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply leading-[normal] m-0;
+}
+
+*,
+::before,
+::after {
+  border-width: 0;
+}
